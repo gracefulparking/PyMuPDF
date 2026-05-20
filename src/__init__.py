@@ -19138,7 +19138,7 @@ def JM_convert_to_pdf(doc, fp, tp, rotate) -> bytes:
         pdf_page = mupdf.pdf_load_page(pdfout, i)
 
         # loop through source page links
-        link = mupdf.fz_load_links(page)  #load first link
+        link = mupdf.fz_load_links(page)  # load first link
         while link.m_internal:  # break loop when link is None
             uri = link.uri()  # URI string
             rect = mupdf.FzRect(link.rect())  # link "from" rectangle
