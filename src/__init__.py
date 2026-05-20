@@ -19160,21 +19160,17 @@ def JM_convert_to_pdf(doc, fp, tp, rotate) -> bytes:
     for ilink in internal_links:
         pdf_page = mupdf.pdf_load_page(pdfout, ilink["page"])
         ret = ilink["ret"]
-        loc = mupdf.FzLocation()
-        loc.chapter = ret.chapter
-        loc.page = ret.page
-        dest = mupdf.FzLinkDest()
+        dest = mupdf.fz_link_dest()
         dest.type = 7  # XYZ destination format
-        dest.loc = loc  # (chapter, page)
+        dest.loc.chapter = ret.chapter
+        dest.loc.page = ret.page
         dest.h = ilink["h"]
         dest.w = ilink["w"]
         dest.x = ilink["xp"]
         dest.y = ilink["yp"]
         dest.zoom = 0
         rect=ilink["from"]
-        # the following gives us a segv, so we construct the URI ourselves:
-        # uri = mupdf.pdf_new_uri_from_explicit_dest(dest)
-        uri = f"#&page={dest.loc.page+1}&zoom={dest.zoom},{round(dest.x,4)},{round(dest.y,4)}"
+        uri = mupdf.pdf_new_uri_from_explicit_dest(mupdf.FzLinkDest(dest))
         mupdf.pdf_create_link(pdf_page, rect, uri)
     # prepare write options structure
     opts = mupdf.PdfWriteOptions()
