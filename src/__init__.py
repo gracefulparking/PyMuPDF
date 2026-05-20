@@ -3010,7 +3010,7 @@ class Document:
                 if filetype:
                     suffix = filetype
                 else:
-                    suffix = pathlib.Path(filename).suffix
+                    suffix = pathlib.Path(filename).suffix.strip(".")
                 try:
                     fz_stream = mupdf.fz_open_file(filename)
                     doc = mupdf.fz_open_document_with_stream_and_dir(suffix, fz_stream, archive_parm)
