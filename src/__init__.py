@@ -19174,7 +19174,7 @@ def JM_convert_to_pdf(doc, fp, tp, rotate) -> bytes:
         rect=ilink["from"]
         # the following gives us a segv, so we construct the URI ourselves:
         # uri = mupdf.pdf_new_uri_from_explicit_dest(dest)
-        uri = f"#&page={dest.loc.page}&zoom={dest.zoom},{round(dest.x,4)},{round(dest.y,4)}"
+        uri = f"#&page={dest.loc.page+1}&zoom={dest.zoom},{round(dest.x,4)},{round(dest.y,4)}"
         mupdf.pdf_create_link(pdf_page, rect, uri)
     # prepare write options structure
     opts = mupdf.PdfWriteOptions()
