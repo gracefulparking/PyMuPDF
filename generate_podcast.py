@@ -346,7 +346,7 @@ specified structure, no empty praise."""
 def generate_script(prompt: str, client: anthropic.Anthropic) -> str:
     response = client.messages.create(
         model="claude-opus-4-7",
-        max_tokens=6000,
+        max_tokens=10000,
         thinking={"type": "adaptive"},
         system=[{"type": "text", "text": SCRIPT_SYSTEM,
                  "cache_control": {"type": "ephemeral"}}],

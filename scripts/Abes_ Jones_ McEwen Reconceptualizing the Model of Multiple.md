@@ -155,4 +155,34 @@ DEV: Which means assessment isn't just "did students learn the content." It's "w
 
 MAYA: And honestly, the third implication is methodological for practitioners. Narrative methods — getting students to actually tell their stories, rather than checking boxes on an identity inventory — surface the meaning-making structure in a way that demographic data never will. You can have two students who check the same five identity boxes and tell completely different stories about what those boxes mean to them.
 
-DEV: One thing I'd push on, though. The article's practice implications can drift toward a kind of developmental coaching model where the advisor's job is to move students toward self-authorship. And that move has the problem we already named — it privileges one cultural mode of selfhood. So I'd add: be useful to the student where she is, not where you think she
+DEV: One thing I'd push on, though. The article's practice implications can drift toward a kind of developmental coaching model where the advisor's job is to move students toward self-authorship. And that move has the problem we already named — it privileges one cultural mode of selfhood. So I'd add: be useful to the student where she is, should be. A formulaic student isn't a project. She's a person whose meaning-making is doing real work for her right now, and the work of an advisor isn't to accelerate her into fourth order — it's to be a useful thinking partner inside whatever order she's in.
+
+MAYA: And sometimes that means the most respectful thing you can do is honor the formulas, not destabilize them. Especially when those formulas are tied to family, faith, and community structures that the student is going to need to keep living inside long after she leaves your office.
+
+DEV: Right. The model is a lens for understanding, not a ladder you're trying to push students up.
+
+MAYA: One more practice piece, and then we should land. The implications for faculty are real too, not just student affairs. If you're teaching a class where you bring up heteronormativity, or whiteness, or any of the concepts that ask students to step outside an inherited frame — you are, whether you mean to or not, asking for fourth-order work. And half your room may not yet have that capacity. That's not a deficit. It's information about what kind of scaffolding the class needs.
+
+DEV: Which is different from softening the content. The content can stay. The scaffolding around it is what changes.
+
+[pause]
+
+MAYA: Okay. What should people read next.
+
+DEV: Three pieces, in this order. First, go back to the parent — Jones and McEwen 2000, "A Conceptual Model of Multiple Dimensions of Identity," in the Journal of College Student Development. You need that to see what the 2007 article is reconceptualizing. The rings, the core, the contextual influences — it's all there, and it's a quick read. You'll see immediately what was missing and why the meaning-making filter is the move.
+
+MAYA: And it's a genuinely elegant piece of grounded theory work in its own right. Worth reading not just as background.
+
+DEV: Second, Torres, Jones, and Renn, 2009, "Identity Development Theories in Student Affairs: Origins, Current Status, and New Approaches," also in JCSD. That's the synthesis review. It situates the RMMDI inside the broader landscape of identity theory in higher ed — racial identity models, ethnic identity models, sexual identity models, the multiple-identity strand, the intersectional turn. If you read the 2007 article and feel like you're missing the map, this is the map. It also names the gap between developmental models and structural analysis pretty directly, which is the critique we were circling.
+
+MAYA: And the third is the counterpoint.
+
+DEV: Yosso 2005, "Whose Culture Has Capital? A Critical Race Theory Discussion of Community Cultural Wealth," in Race Ethnicity and Education. Yosso isn't doing identity development. She's doing a critical race theory analysis of what students of color bring with them to higher education — aspirational capital, linguistic capital, familial capital, social, navigational, resistant. Six forms of capital that get rendered invisible by deficit framings.
+
+MAYA: And why is that the counterpoint to Abes, Jones, and McEwen?
+
+DEV: Because Yosso starts from structure, not from the individual. The unit of analysis isn't a student's cognitive complexity — it's the cultural wealth of communities and the institutional structures that fail to recognize it. If the RMMDI's risk is that it locates the action inside the student's head, Yosso relocates it to the relationship between communities and institutions. Reading them together is genuinely productive friction. You get the inside-out account and the outside-in account, and you can decide for yourself what each one explains and what each one misses.
+
+MAYA: And honestly, the lesbian Catholic working-class student we keep coming back to — you need both lenses to see her. You need the RMMDI to understand the meaning-making work she's doing internally. You need Yosso to understand the cultural wealth she's bringing and the structures she's navigating that the RMMDI doesn't name.
+
+DEV: Two lenses, one student. That's the assignment.
