@@ -7,200 +7,201 @@
 ANCESTRY: WHAT THIS LITERATURE INHERITED
 ═══════════════════════════════════════════════
 
-The involvement/engagement literature in higher education did not invent its core intuition. It inherited it from at least four ancestor traditions, each of which arrived in college student research through specific carriers.
+The student involvement/engagement literature did not emerge from nowhere. It inherited from at least four distinct intellectual streams, each of which shows up in the corpus through specific importers.
 
-• ERIK ERIKSON's psychosocial stage theory (1950s–60s). Erikson argued that identity formation was the central developmental task of late adolescence and that it happened through engagement with a widening social world. Arthur Chickering imported this directly into higher education in *Education and Identity* (1969), translating Erikson's identity crisis into seven "vectors" of college student development. What translated cleanly: the idea that college is developmentally consequential and that institutions shape who students become. What got lost: Erikson's darker sense of identity crisis, of foreclosure and diffusion as real failures, was softened into a more optimistic American developmentalism in which growth was presumed to be the default trajectory of a residential college experience.
+• Erik Erikson's psychosocial development theory (1950, 1968). Erikson argued that identity formation is the central developmental task of late adolescence, structured through a sequence of psychosocial crises. Arthur Chickering imported this in *Education and Identity* (1969), translating Erikson's clinical/cultural framework into seven "vectors" of college student development. What translated cleanly: the developmental stage logic and the centrality of identity. What got lost: Erikson's attention to historical and cultural specificity. Chickering's vectors became near-universal, applied to college students as a generic category — a flattening that later critics (Jones & McEwen, Torres, Renn) would have to repair.
 
-• KURT LEWIN's field theory (B = f(P, E)). Lewin argued that behavior is a function of person and environment, jointly. Astin's input-environment-output (I-E-O) model is essentially Lewinian: students bring inputs, environments act on them, outputs result. What translated cleanly: the formal architecture of measuring person-environment interaction. What got lost: Lewin's interest in conflict, group dynamics, and action research largely dropped out; the model became a regression specification rather than a theory of social fields.
+• Jean Piaget and the cognitive-developmental tradition, transmitted through William Perry (1968) and then Robert Kegan (1982, 1994). Perry's scheme of intellectual and ethical development was the first major application to college students. Kegan's "orders of consciousness" framework, reviewed in the corpus by Harkins (1994), brought constructive-developmental psychology into student affairs vocabulary. King and Baxter Magolda were the primary importers; Baxter Magolda's self-authorship work is essentially Kegan's fourth order operationalized for higher education. What got lost: Kegan's clinical caution about the rarity of full self-authorship in adult populations. In higher ed, self-authorship became something colleges were supposed to *produce*, not a rare developmental achievement.
 
-• JEAN PIAGET and the cognitive-developmental tradition, carried through WILLIAM PERRY (1968) and ROBERT KEGAN (1982, 1994). Perry's scheme of intellectual and ethical development gave the field its first stage model of how college students think about knowledge. Kegan's orders of consciousness gave Marcia Baxter Magolda and Patricia King the architecture for self-authorship. What translated cleanly: the idea that meaning-making structures evolve. What got lost: Piaget's biological framing and Kegan's clinical-therapeutic frame were both flattened into something more like a curriculum outcome.
+• Pierre Bourdieu's cultural and social capital (1977, 1986). Bourdieu argued that schools reproduce class advantage by treating dominant-culture capital as natural merit. Tara Yosso (2005) is the importer who matters here, but she imports Bourdieu in order to *invert* him — arguing that communities of color possess forms of capital (aspirational, navigational, resistant, familial, social, linguistic) that Bourdieu's frame rendered invisible. What translated: the structural critique. What got refused: Bourdieu's pessimism about reproduction.
 
-• PIERRE BOURDIEU's cultural capital (1977), arriving late through critical scholars rather than mainline student development. Yosso (2005) is the key carrier in this corpus. What translated cleanly: that capital matters and is unequally distributed. What got transformed deliberately rather than lost: Yosso inverted Bourdieu's deficit framing, arguing communities of color possess capital that elite institutions fail to recognize.
-
-A note: VINCENT TINTO's interactionalist model of student departure (1975, 1987), drawing on Durkheim's anomie, sits adjacent to Astin and is the other major ancestor for the engagement tradition. Tinto appears in this corpus only as a "builds_on" reference for Museus, but the involvement-engagement story cannot really be told without him in the background.
+• Astin's own ancestry runs through behaviorist learning theory (time-on-task) and Vincent Tinto's interactionalist model of departure (1975, 1987). Astin's 1984 involvement theory shares with Tinto an emphasis on integration into the institutional environment, though Astin is more psychological and Tinto more sociological. The corpus shows Museus & Jayakumar (2012) and Museus (2017) explicitly building on Tinto alongside Astin — which is where the cultural critique enters this lineage.
 
 ═══════════════════════════════════════════════
 FOUNDING WORKS AND THEIR MOVES
 ═══════════════════════════════════════════════
 
-▸ ASTIN 1984: Student Involvement: A Developmental Theory
-  MOVE: Reduced a sprawling empirical literature on college impact to a single causal claim — that the quantity and quality of student energy invested is the active ingredient — and offered five postulates testable enough to organize a research program.
-  RESPONDING TO: A field that had accumulated correlations between institutional characteristics and student outcomes without a mechanism. Astin was implicitly arguing that the prestige-and-resources story (which institution you attend) had been overstated and that what students did inside any institution mattered more.
-  ENABLED: NSSE, the high-impact practices framework, the entire "engagement" turn in institutional research, and the professional self-understanding of student affairs as an outcomes-relevant enterprise rather than a service function.
+▸ ASTIN 1984: Student Involvement
+  MOVE: Relocated the causal engine of college impact from institutional inputs (selectivity, resources, curriculum) to student behavior (time and psychological energy invested). Made the *student* the variable, not the college.
+  RESPONDING TO: A field obsessed with rankings, selectivity, and structural characteristics. Astin had spent two decades with input-environment-output data showing that institutional prestige explained much less variance than what students actually did.
+  ENABLED: NSSE (Kuh 1998), the high-impact practices framework (Kuh 2008), and essentially the entire post-1990 student affairs philosophy. Also enabled Museus & Jayakumar to ask "involvement on whose terms?" — which Astin could not.
 
-▸ CHICKERING & REISSER 2019 [originally Chickering 1969]: Education and Identity
-  MOVE: Mapped college-age development onto seven vectors (competence, emotions, autonomy, relationships, purpose, integrity, identity), giving practitioners a vocabulary for what they were trying to produce.
-  RESPONDING TO: Erikson's stage theory was too coarse for an institutional setting that wanted to design programs around specific developmental outcomes.
-  ENABLED: Virtually every psychosocial model that followed — Jones & McEwen's MMDI, Komives' leadership identity work, and the basic premise that residential college life produces identity.
+▸ CHICKERING & REISSER 2019 (originally Chickering 1969): Education and Identity
+  MOVE: Translated Eriksonian identity into a seven-vector developmental map specific to college. The 1993 revision (with Reisser) added emotional and interpersonal vectors and lightly acknowledged diversity.
+  RESPONDING TO: An absence of developmental theory tailored to traditional-age college students.
+  ENABLED: Virtually every subsequent psychosocial model in the corpus — Jones & McEwen, Komives et al., Baxter Magolda all cite Chickering. Also enabled the critique: by being so dominant, Chickering became the foil against which intersectional and critical models defined themselves.
+
+▸ JONES & McEWEN 1996: Multiple Dimensions of Identity
+  MOVE: Refused the additive model of identity (race + gender + class) in favor of a relational one in which a "core" self is surrounded by intersecting identity dimensions whose salience shifts by context.
+  RESPONDING TO: Chickering's universal vectors and the field's habit of studying single identities (racial identity OR gender identity) in isolation.
+  ENABLED: Abes, Jones & McEwen (2007) reconceptualization; the broader intersectional turn in student development; Torres, Jones & Renn (2009) synthesis.
 
 ▸ KING & BAXTER MAGOLDA 1996: A Developmental Perspective on Learning
-  MOVE: Fused cognitive-developmental theory (Perry, Kegan) with learning theory, arguing that what students learn is inseparable from how they make meaning.
-  RESPONDING TO: A split between learning theorists (focused on content) and developmentalists (focused on identity), with no bridge.
-  ENABLED: Self-authorship as the dominant developmental construct of the 2000s.
+  MOVE: Reframed learning itself as a developmental phenomenon — not just cognitive acquisition but transformation of how students know.
+  RESPONDING TO: The separation between "cognitive" and "psychosocial" tracks in student development research, which treated learning and identity as parallel rather than integrated.
+  ENABLED: Baxter Magolda's self-authorship program (2001, 2009); learning partnerships frameworks; the eventual integration of cognitive and psychosocial that Torres, Jones & Renn would synthesize.
 
-▸ JONES & McEWEN 1996 [the model crystallizes in their 2000 article]: Multiple Dimensions of Identity
-  MOVE: Rejected single-axis identity models (race-only, gender-only) and proposed that students hold multiple intersecting identities with shifting salience around a core sense of self.
-  RESPONDING TO: Chickering's universal vectors, which had been built on largely white male samples, and to single-identity models (Cross on Black identity, Helms on racial identity) that treated dimensions of self as separable.
-  ENABLED: The Abes/Jones/McEwen reconceptualization, the broader intersectional turn in student development, and (more diffusely) the field's growing discomfort with universalist stage theories.
+▸ BAXTER MAGOLDA 2001: Making Their Own Way
+  MOVE: Operationalized Kegan's fourth-order consciousness as "self-authorship" — the capacity to internally generate beliefs, identity, and relationships rather than receiving them from authority — and mapped it longitudinally onto post-college life.
+  RESPONDING TO: An adult development literature that lacked rich longitudinal data on emerging adults, and a higher ed literature that stopped tracking development at graduation.
+  ENABLED: A whole programmatic agenda — Learning Partnerships Model, Authoring Your Life (2009), and the deep integration of cognitive-developmental theory into student affairs curriculum.
 
-▸ YOSSO 2005: Community Cultural Wealth
-  MOVE: Inverted the deficit reading of Bourdieu by naming six forms of capital (aspirational, navigational, social, linguistic, familial, resistant) that communities of color possess and that institutions fail to recognize as assets.
-  RESPONDING TO: A higher education literature — including the involvement/engagement tradition — that implicitly treated white middle-class campus participation as the normative form of "engagement."
-  ENABLED: Museus's CECE model, asset-based research on minoritized students, and a generation of dissertations that refused the deficit framing built into Tinto-style departure research.
+▸ YOSSO 2005: Whose Culture Has Capital?
+  MOVE: Inverted the deficit framing of communities of color by enumerating six forms of "community cultural wealth" that Bourdieu's class-focused capital theory had rendered invisible.
+  RESPONDING TO: Both Bourdieu's structural pessimism and the deficit framing that pervaded higher ed retention literature (including, by implication, the way Astin's involvement framework treated non-involvement as a student deficit rather than an institutional failure).
+  ENABLED: Museus & Jayakumar (2012), Museus (2017) CECE model, and a broader asset-based turn in the equity literature.
 
 ═══════════════════════════════════════════════
 EXTENSIONS: WORKS THAT BUILT ON THE FOUNDATION
 ═══════════════════════════════════════════════
 
-▸ BAXTER MAGOLDA 2001: Making Their Own Way
-  EXTENDS: King & Baxter Magolda 1996; Kegan's orders of consciousness.
-  THE EXTENSION: A longitudinal narrative of how twenty-somethings move from external to internal definitions of self, knowledge, and relationships — self-authorship as the developmental destination of college and the years just after.
-  WHAT STAYED THE SAME: The Kegan-derived assumption that there is a developmental endpoint and that movement toward it is movement toward maturity. Race, class, and structural context entered as influences on the journey, not as factors that might re-shape what counts as the journey.
-
-▸ BAXTER MAGOLDA 2009: Authoring Your Life
-  EXTENDS: Baxter Magolda 2001.
-  THE EXTENSION: Translated self-authorship into pedagogical practice via the Learning Partnerships Model — three principles institutions could enact to provoke internal voice.
-  WHAT STAYED THE SAME: The universality of the developmental sequence, even as Baxter Magolda explicitly broadened her sample. The trajectory was diversified but not destabilized.
-
-▸ ABES, JONES & McEWEN 2007: Reconceptualizing the MMDI
-  EXTENDS: Jones & McEwen 2000.
-  THE EXTENSION: Inserted a "meaning-making filter" (Kegan/Baxter Magolda) between contextual influences and identity perceptions, explaining why students with similar contexts perceive identity demands so differently.
-  WHAT STAYED THE SAME: The core architecture of the MMDI — core self, intersecting dimensions, contextual influences — survived intact. What changed was the route through it.
+▸ KOMIVES ET AL. 2005 (corpus shows 1993 entry, likely the grounded theory study): Developing a Leadership Identity
+  EXTENDS: Chickering & Reisser's psychosocial framework and Kegan's constructive-developmental theory, applied to leadership.
+  THE EXTENSION: Treated leadership not as a skill set but as a developmental identity that moves through stages — from leader-centric to relational/process views of leadership.
+  WHAT STAYED THE SAME: The stage-developmental logic itself, including its assumption that movement is generally forward and that the relational endpoint is universally desirable. Cultural variation in what counts as leadership remained under-examined.
 
 ▸ KOMIVES ET AL. 2006: Leadership Identity Development Model
-  EXTENDS: Komives et al. 2005 grounded theory; Chickering & Reisser.
-  THE EXTENSION: A six-stage developmental model of how college students come to see themselves as leaders, with leadership defined relationally rather than positionally.
-  WHAT STAYED THE SAME: A stage architecture that presumes progression, and a relatively bounded sample of involved students — meaning the model describes how engaged students develop leadership identity, not how the disengaged might.
+  EXTENDS: Their own 2005 grounded theory.
+  THE EXTENSION: Formalized the six-stage LID model and connected it to application contexts.
+  WHAT STAYED THE SAME: The implicit norm that students should arrive at a particular relational/systemic conception of leadership. Critical and cultural challenges to that endpoint were not engaged.
 
-▸ KOMIVES, LUCAS & McMAHON 2007: Exploring Leadership
-  EXTENDS: The Komives research program.
-  THE EXTENSION: Translated the relational leadership model into a student-facing textbook, completing the theory-to-practice loop within the leadership strand.
-  WHAT STAYED THE SAME: The normative claim that relational, ethical, collaborative leadership is what college should produce.
+▸ KOMIVES, LUCAS & McMAHON 2007 / 2015: Exploring Leadership
+  EXTENDS: The LID model into a pedagogical textbook.
+  THE EXTENSION: Translation from research to undergraduate curriculum — the move from theory to teachable practice.
+  WHAT STAYED THE SAME: Same developmental endpoint; the textbook genre tends to smooth over critique.
+
+▸ ABES, JONES & McEWEN 2007: Reconceptualizing MMDI
+  EXTENDS: Jones & McEwen 1996.
+  THE EXTENSION: Added a "meaning-making filter" — drawn explicitly from Baxter Magolda's self-authorship — between contextual influences and identity salience. The thicker the filter, the more students can mediate external messages about identity rather than absorbing them.
+  WHAT STAYED THE SAME: The "core" self at the center of the model, which CRT and queer-theoretical critics would later question as a residue of stable-self assumptions inconsistent with the relational claims of the model.
+
+▸ BAXTER MAGOLDA 2009: Authoring Your Life
+  EXTENDS: Her 2001 longitudinal work into post-college life.
+  THE EXTENSION: The Learning Partnerships Model as an institutional pedagogy — how educators can scaffold the transition to self-authorship rather than merely observe it.
+  WHAT STAYED THE SAME: The cultural specificity of "internal voice" as a developmental goal. Critics from collectivist and indigenous frameworks have noted that "authoring your life" reflects a particularly Western individualist telos.
 
 ▸ MUSEUS & JAYAKUMAR 2012: Creating Campus Cultures
-  EXTENDS: Yosso 2005; Tinto; Astin 1984 (cited as the involvement baseline being reframed).
-  THE EXTENSION: Reframed campus environments as cultural rather than merely structural, arguing that involvement depends on whether the culture recognizes students of color as belonging.
-  WHAT STAYED THE SAME: The basic premise that environment shapes outcomes — pure Astin — even as the racial politics of the environment were foregrounded.
+  EXTENDS: Astin (1984), Tinto (1987), and Yosso (2005) simultaneously — an unusual combination.
+  THE EXTENSION: Shifted the unit of analysis from student behavior to campus cultural environment. The question is no longer "are students involved?" but "is this environment culturally engaging for racially diverse students?"
+  WHAT STAYED THE SAME: The outcome variables (persistence, success) inherited from Tinto/Astin retention research. The frame was reconstructed; the metrics were not entirely.
 
-▸ MUSEUS 2017: The CECE Model
-  EXTENDS: Museus & Jayakumar 2012.
-  THE EXTENSION: Nine indicators of culturally engaging campus environments, operationalized for measurement — effectively an NSSE-style instrument for cultural responsiveness.
-  WHAT STAYED THE SAME: The measurement logic itself. CECE accepts that the way to influence institutions is through instruments and indicators — the very logic Astin and Kuh established.
+▸ MUSEUS 2017: CECE Model
+  EXTENDS: Museus & Jayakumar 2012 into a formal theoretical model with nine indicators.
+  THE EXTENSION: Specified what "culturally engaging" means operationally — cultural familiarity, culturally relevant knowledge, cross-cultural engagement, collectivist orientations, etc.
+  WHAT STAYED THE SAME: The institutional-effectiveness framing — CECE can be measured, benchmarked, and used for institutional improvement, much like NSSE. This is both its strength (institutional uptake) and the source of a potential domestication of its critical edge.
 
 ═══════════════════════════════════════════════
 CRITIQUES: WORKS THAT CONTESTED THE FOUNDATION
 ═══════════════════════════════════════════════
 
-▸ JONES & McEWEN 1996/2000: MMDI
-  CRITIQUES: Chickering's universalist vectors and single-axis identity models.
-  FROM WHERE: Feminist and intersectional epistemology, drawing on Black feminist thought without yet using Crenshaw's vocabulary directly.
-  THE CHARGE: That stage theories built on narrow samples were being used as universal templates, erasing how identity is held differently by people with multiple minoritized statuses.
-  WAS IT ABSORBED?: Partially. The MMDI became canon, but Chickering's vectors were never retracted; they continued to appear in textbooks alongside the MMDI as if both were equivalently true. The field added rather than subtracted.
+▸ YOSSO 2005: Whose Culture Has Capital?
+  CRITIQUES: Bourdieu directly, and by extension the deficit logic embedded in retention/involvement frameworks that treated minoritized students' non-involvement as the student's problem.
+  FROM WHERE: Critical Race Theory, building on Ladson-Billings.
+  THE CHARGE: That dominant frameworks for understanding student success — including involvement and integration — implicitly require students of color to assimilate to white middle-class campus norms in order to be counted as "engaged." The forms of capital these students bring are not recognized as capital.
+  WAS IT ABSORBED?: Partly. The vocabulary of community cultural wealth has been widely cited and the asset-based framing is now common. But the deeper challenge — that NSSE-style engagement metrics may themselves encode whose cultural practices count as engagement — has been largely *domesticated*. NSSE added items; the underlying frame held.
 
-▸ YOSSO 2005: Community Cultural Wealth
-  CRITIQUES: Deficit framings embedded in cultural capital theory and, by extension, in engagement research that treats normative campus participation as the standard.
-  FROM WHERE: Critical Race Theory.
-  THE CHARGE: That higher education research, including the involvement literature, has measured students of color against a white middle-class baseline and called the gap "underengagement."
-  WAS IT ABSORBED?: Cited heavily but selectively. The six forms of capital became a vocabulary that institutions adopted, often without the CRT structural critique attached. Yosso's argument that the problem is institutional racism rather than student deficit was frequently softened into "students bring assets too" — a domesticated version that preserves rather than challenges the engagement framework.
+▸ JONES & McEWEN 1996: Multiple Dimensions of Identity
+  CRITIQUES: Chickering's universal vectors and single-identity research traditions.
+  FROM WHERE: Intersectional feminist scholarship (though not always named as such in 1996).
+  THE CHARGE: That treating identities as separable and developmentally universal misrepresents how students actually experience selfhood.
+  WAS IT ABSORBED?: Yes, substantially. The MMDI became canonical and the field largely accepts that identities are intersecting and contextually salient. Whether practice has caught up to theory is another question.
 
-▸ MUSEUS & JAYAKUMAR 2012; MUSEUS 2017: CECE
-  CRITIQUES: Astin's involvement theory and Tinto's integration model for treating engagement as something students do rather than something campus cultures permit.
-  FROM WHERE: Cultural and ecological frameworks, with CRT in the background.
-  THE CHARGE: That asking minoritized students to "integrate" or "get involved" in environments hostile to them is asking them to assimilate, and that the locus of intervention should be the environment, not the student.
-  WAS IT ABSORBED?: This is the more interesting case. Museus's move was to build the critique into the same measurement infrastructure (an instrument, indicators, an institutional dashboard) that Astin and Kuh built. That gave it traction Yosso's critique alone could not have. Whether the deeper structural argument survived the operationalization is contested.
+▸ MUSEUS & JAYAKUMAR 2012 / MUSEUS 2017: CECE
+  CRITIQUES: Tinto's integration model and, more quietly, Astin's involvement theory, for placing the burden of adaptation on the student.
+  FROM WHERE: Cultural and ecological frameworks, drawing on Yosso.
+  THE CHARGE: That involvement and integration are not neutral developmental processes — they ask students from non-dominant cultures to perform engagement in dominant-cultural forms.
+  WAS IT ABSORBED?: In equity-minded student affairs circles, yes. In mainstream institutional research and NSSE-driven accountability work, the critique has been acknowledged but not structurally absorbed. The CECE model itself shows the dilemma: to be institutionally adopted, it had to take a benchmark form, which is the very form Astin's framework popularized.
 
-The corpus does not contain a frontal critique of Astin from queer theory, disability studies, or political economy, though such critiques exist in the broader literature (e.g., the argument that "engagement" naturalizes a residential, full-time, traditional-age student and renders working-class commuters as deficient by definition). Their absence here is a real gap.
+The corpus does not contain a strong queer-theoretical or disability studies critique of involvement/engagement, both of which exist in the broader literature (Abes & Kasch's queer reconceptualization of MMDI, for example) but are not represented here. That's a lineage dead-end in this corpus.
 
 ═══════════════════════════════════════════════
 RECONSTRUCTIONS: WORKS THAT REBUILT AFTER CRITIQUE
 ═══════════════════════════════════════════════
 
 ▸ ABES, JONES & McEWEN 2007: Reconceptualized MMDI
-  RECONSTRUCTS: The original MMDI.
-  INCORPORATES: Constructivist critiques arguing that the original model under-theorized how meaning-making mediated identity perception.
-  WHAT SURVIVED: Core sense of self, multiple dimensions, contextual influences.
-  WHAT WAS ABANDONED: The implicit assumption that context acted directly on identity. It now acts through a meaning-making filter.
-  NEW VOCABULARY: "Meaning-making filter," with three permeability states (formulaic, transitional, foundational) borrowed from Baxter Magolda.
+  RECONSTRUCTS: Jones & McEwen 1996.
+  INCORPORATES: Critiques that the original model was descriptively rich but causally thin — it showed identity dimensions but not how students navigated conflicting messages about them.
+  WHAT SURVIVED: The core/dimension architecture; the contextual salience claim.
+  WHAT WAS ABANDONED: The implicit passivity of the original model. Students are now meaning-makers, not just identity-holders.
+  NEW VOCABULARY: "Meaning-making filter," with three thicknesses corresponding to Baxter Magolda's self-authorship phases.
 
-▸ TORRES, JONES & RENN 2009: Identity Development Theories in Student Affairs
-  RECONSTRUCTS: The whole psychosocial identity tradition from Chickering forward.
-  INCORPORATES: Intersectionality, social construction of identity, the critique that early models were normed on majority populations.
-  WHAT SURVIVED: The premise that identity development is a legitimate object of higher education research and a legitimate goal of practice.
-  WHAT WAS ABANDONED: The expectation of a single integrative meta-theory. The article concedes the field has moved toward a pluralism of theories rather than convergence.
-  NEW VOCABULARY: "Social identity" used in a way that explicitly distinguishes constructed group membership from psychological identity formation.
+▸ TORRES, JONES & RENN 2009: Identity Development Theories
+  RECONSTRUCTS: The whole identity development subfield, attempting to integrate psychosocial (Chickering), cognitive-structural (Kegan, Baxter Magolda), social identity (Cross, Helms), and intersectional (Jones & McEwen) traditions.
+  INCORPORATES: The critique that the field had become balkanized into identity-specific theories that did not speak to one another, and that mainstream developmental theory had failed to engage difference.
+  WHAT SURVIVED: The developmental impulse itself; the commitment to theory-building.
+  WHAT WAS ABANDONED: The pretense that any single model could carry the developmental story.
+  NEW VOCABULARY: A meta-framework distinguishing foundational, integrative, and emergent theoretical traditions — a way of mapping the field rather than choosing within it.
 
-▸ MUSEUS 2017: CECE Model
-  RECONSTRUCTS: The engagement framework, particularly its environmental assumptions.
-  INCORPORATES: Yosso's asset framing; the cultural critique of Tinto-style integration.
-  WHAT SURVIVED: The measurement-and-indicators approach to institutional accountability — the Kuh/NSSE infrastructure.
-  WHAT WAS ABANDONED: The presumption that the campus environment is neutral and the student is the variable.
-  NEW VOCABULARY: Cultural relevance, cultural responsiveness, culturally engaging environments — nine indicators in two clusters.
+▸ MUSEUS 2017: CECE
+  RECONSTRUCTS: Astin's involvement and Tinto's integration in light of Yosso's CRT critique.
+  INCORPORATES: That campus environments — not just student behavior — must be the unit of intervention; that cultural responsiveness is constitutive of engagement, not an add-on.
+  WHAT SURVIVED: Measurability; institutional applicability; outcome orientation toward persistence and success.
+  WHAT WAS ABANDONED: The notion that engagement is a uniform construct across student populations.
+  NEW VOCABULARY: Cultural familiarity, culturally relevant knowledge, collectivist cultural orientations, humanized educational environments.
 
 ═══════════════════════════════════════════════
 LINEAGE CHAINS
 ═══════════════════════════════════════════════
 
-CHAIN 1: The involvement-to-engagement-to-cultural-engagement arc
-  Lewin's B = f(P, E)
-    → Astin 1984: collapses person-environment interaction into "involvement" as the active ingredient; gives the field a measurable mechanism.
-    → Kuh / NSSE (1998, outside corpus): operationalizes Astin into an instrument that re-routes institutional accountability away from inputs.
-    → Yosso 2005 critique: the engagement baseline is white and middle-class; "underengaged" students are being read against an unmarked norm.
-    → Museus & Jayakumar 2012 → Museus 2017: reconstructs by building cultural responsiveness into the same kind of indicator framework Kuh built.
-    → Where it stands: NSSE remains dominant; CECE is a serious counter-instrument; the structural critique is partially absorbed and partially domesticated.
+CHAIN 1: The Involvement-to-Engagement-to-Cultural-Engagement arc
+  Behaviorist time-on-task + Tinto's interactionalist model (1975)
+    → Astin (1984): relocates causal weight to student energy investment
+    → Kuh / NSSE (1998, outside corpus but the keystone): operationalizes involvement as measurable engagement practices
+    → Yosso (2005): challenges the cultural neutrality of "engagement" via CRT
+    → Museus & Jayakumar (2012) → Museus (2017): reconstructs engagement as a property of culturally responsive environments, not student behavior alone
+    → Today: NSSE and CECE coexist uneasily; most institutions cite both but operate primarily on NSSE-style benchmarks
 
-CHAIN 2: The psychosocial-identity strand
-  Erikson → Chickering 1969 (vectors)
-    → Chickering & Reisser 1993/2019: revises vectors with more attention to women and adult learners.
-    → Jones & McEwen 1996/2000: critiques the universalism; proposes the MMDI.
-    → Abes, Jones & McEwen 2007: reconstructs the MMDI by inserting Kegan-Baxter Magolda meaning-making.
-    → Torres, Jones & Renn 2009: synthesizes the whole tradition and concedes pluralism.
-    → Where it stands: vectors are still taught but no longer treated as universal; the MMDI and its reconceptualization are the working model.
+CHAIN 2: The Psychosocial-to-Intersectional arc
+  Erikson (1950, 1968)
+    → Chickering (1969) → Chickering & Reisser (1993/2019): seven vectors as the canonical college developmental map
+    → Jones & McEwen (1996): refuses universal vectors, proposes multiple intersecting dimensions
+    → Abes, Jones & McEwen (2007): adds meaning-making filter, bringing in cognitive-developmental theory
+    → Torres, Jones & Renn (2009): synthesizes the now-pluralized field
+    → Today: MMDI is the canonical replacement for Chickering in graduate student affairs curricula, though Chickering remains the historical touchstone
 
-CHAIN 3: The cognitive-developmental / self-authorship strand
-  Piaget → Perry 1968 → Kegan 1982/1994
-    → Harkins 1994: signals Kegan's import into the field via review in adult development.
-    → King & Baxter Magolda 1996: fuses cognitive development with learning.
-    → Baxter Magolda 2001: longitudinal narrative establishing self-authorship as developmental destination.
-    → Baxter Magolda 2009: Learning Partnerships Model — translates theory into pedagogical design.
-    → Where it stands: self-authorship is the dominant developmental construct in graduate preparation programs but faces ongoing critique that its endpoint is culturally specific.
+CHAIN 3: The Constructive-Developmental arc
+  Piaget → Perry (1968) → Kegan (1982, 1994)
+    → Harkins (1994) review brings Kegan into adult development conversation in higher ed
+    → King & Baxter Magolda (1996): cognitive-developmental learning theory
+    → Baxter Magolda (2001): self-authorship as longitudinal construct
+    → Baxter Magolda (2009): Learning Partnerships Model as pedagogy
+    → Abes, Jones & McEwen (2007) imports self-authorship as the meaning-making filter
+    → Today: Self-authorship remains widely taught; cultural critiques (that it encodes Western individualism) are acknowledged but not structurally addressed in the model
 
-CHAIN 4: The leadership-identity strand (parallel to the main arc)
-  Chickering & Reisser + Kegan
-    → Komives et al. 2005 (grounded theory, outside corpus citations here)
-    → Komives et al. 2006: six-stage LID model.
-    → Komives, Lucas & McMahon 2007: textbook translation.
-    → Where it stands: the relational leadership model dominates collegiate leadership programs; critiques from critical leadership studies have not penetrated the student-affairs version.
+CHAIN 4: The Leadership-as-Identity arc
+  Chickering psychosocial tradition + Kegan constructive-developmental tradition
+    → Komives et al. (2005, 2006): grounded theory of leadership identity development
+    → Komives, Lucas & McMahon (2007, 2015): translation to undergraduate curriculum via *Exploring Leadership*
+    → Today: LID is the dominant frame in collegiate leadership programs; critical leadership studies critique exists outside this corpus and has had limited uptake in mainstream student affairs leadership programs
 
 ═══════════════════════════════════════════════
 SCHOLARLY RELATIONSHIPS AND CONVERSATIONS
 ═══════════════════════════════════════════════
 
-What I can verify:
+The verifiable institutional and personal networks in this corpus:
 
-• Marcia Baxter Magolda and Patricia King have a sustained intellectual partnership, both based for much of their careers in Ohio (Baxter Magolda at Miami University, King at Michigan). Their co-authored 1996 piece is one node in a long collaboration around self-authorship and the Reflective Judgment Model.
+• UCLA / HERI cluster: Astin built the Higher Education Research Institute at UCLA, where the CIRP surveys institutionalized his input-environment-output framework. This is the empirical infrastructure on which involvement theory rested.
 
-• Susan R. Jones, Marylu McEwen, and Elisa Abes are a clear lineage: McEwen was on the Maryland faculty during Jones's doctoral work; Abes was Jones's doctoral student. The MMDI → Reconceptualized MMDI arc is in part an advisor-advisee continuation. Jones later moved to Ohio State, which became a center of identity-development scholarship.
+• University of Maryland leadership cluster: Susan Komives was a long-tenured faculty member at Maryland's College Student Personnel program. The Komives, Owen, Longerbeam, Mainella, Osteen research team reflects Maryland doctoral student collaboration; several of these co-authors were her advisees. This is the most visible co-authorship cluster in the corpus.
 
-• Susan Komives anchored a Maryland-based leadership research cluster; the recurring co-authors (Owen, Longerbeam, Mainella, Osteen) reflect doctoral students and collaborators from that program. The College Student Personnel program at Maryland is a verifiable institutional concentration for the leadership strand.
+• Ohio State / Miami University constructivist cluster: Marcia Baxter Magolda spent her career at Miami University (Ohio); Patricia King at Bowling Green and later Michigan. King and Baxter Magolda co-authored extensively over decades — a sustained intellectual partnership rather than an advisor-advisee chain. Elisa Abes was a Baxter Magolda collaborator at Miami.
 
-• Vasti Torres, Susan Jones, and Kristen Renn co-authored the 2009 synthesis as a deliberate state-of-the-field assessment; all three have served in editorial roles for the Journal of College Student Development, which is itself the central venue for this corpus.
+• Maryland identity cluster: Susan Jones and Marylu McEwen were both at the University of Maryland when the MMDI was developed; Jones later moved to Ohio State, then back to Maryland. Vasti Torres and Kristen Renn became Jones's major collaborators on the 2009 synthesis — by then a multi-institutional network rather than a single program.
 
-• Samuel Museus's work emerges from the Asian American higher education and CRT-adjacent scholarship cluster; Uma Jayakumar is a frequent collaborator. UCLA's higher education program (where CRT and higher ed first crossed substantially through Daniel Solórzano and Tara Yosso) is the relevant institutional background for the Yosso → Museus line.
+• Indiana University / NSSE: George Kuh built NSSE at Indiana, which is where Astin's involvement theory was translated into institutional accountability infrastructure. Not represented directly in this corpus but the missing keystone.
 
-What I cannot verify from the corpus alone: Astin's specific advisees who carried the involvement program forward (Astin spent his career at UCLA HERI); whether Kuh trained directly under anyone in this corpus (he was at Indiana); the specific doctoral genealogies of Komives's collaborators beyond institutional affiliation. I'll flag these as gaps rather than guess.
+• Samuel Museus has been at Indiana, Maryland, San Diego State, and UC San Diego — his work represents the cultural critique entering institutions also home to the engagement-measurement apparatus, which is part of why CECE took the form it did.
+
+I will not claim specific advisor-advisee relationships beyond the Maryland leadership team's evident pattern, since the corpus metadata does not verify them and I should not guess.
 
 ═══════════════════════════════════════════════
 TENSIONS THAT REMAIN LIVE
 ═══════════════════════════════════════════════
 
-• Is "engagement" descriptive or normative? Astin and Kuh treated involvement/engagement as an empirical mechanism. Critics (Museus, the Yosso-derived literature) treat it as a normative ideal that smuggles in assumptions about who counts as a real student. Unresolved because both sides need the construct — critics use the same measurement logic to make institutional change tractable.
+• Is engagement a property of students or of environments? Astin's framework located the variable in the student; Museus's CECE relocates it to the environment. NSSE straddles this — measuring student-reported behaviors that are taken as institutional indicators. The field has not resolved whose responsibility engagement is, and this matters for how interventions get designed and who gets blamed when outcomes lag.
 
-• Does developmental theory require an endpoint? Self-authorship implies one. Intersectional and CRT-informed scholars resist any universal endpoint as covertly cultural. The reconceptualized MMDI tries to hold both — a meaning-making sequence and contextual variability — but the philosophical tension is not resolved, only managed.
+• Is self-authorship culturally universal or Western-individualist? Baxter Magolda's longitudinal work presents internal-voice development as a developmental goal. Critics from cultural, indigenous, and collectivist frameworks argue this telos encodes a specific (Western, individualist) conception of mature selfhood. Baxter Magolda has acknowledged the critique; the model has not been fundamentally restructured.
 
-• Whose responsibility is engagement — the student's or the institution's? Astin's postulates put the energy on the student. CECE puts it on the campus culture. Most institutions operate as if both are true and design interventions accordingly, which is convenient politically but incoherent theoretically.
+• Can the MMDI's "core" survive intersectional and poststructural critique? The 1996 and 2007 versions retain a "core" identity at the model's center. Queer-theoretical and poststructural critics (Abes & Kasch, outside this corpus) argue this contradicts the relational claims of the model. The field cites the critique but has not abandoned the core.
 
-• Has the field absorbed CRT or domesticated it? Yosso's six capitals appear in countless practitioner workshops, often stripped of the structural-racism argument that made them critical in the first place. Whether the field is becoming more critical or simply more articulate in critical vocabulary is an open question, and one the field is mostly not willing to ask of itself in print.
-
-• What is the relationship between measurement and the thing measured? NSSE made engagement governable and visible; it also re-shaped engagement into what NSSE can detect. CECE inherits this problem. There is no current consensus on whether instruments like these are tools of democratic accountability or technologies that reduce educational experience to what can be benchmarked.
-
-• A gap worth naming: this corpus does not include sustained work from queer theory, disability studies, or political economy of higher education — all of which have offered serious critiques of the engagement framework (engagement assumes a particular kind of body, time, and economic relationship to college). Their absence in the corpus does not mean their absence in the field, but it does mean a doctoral student working only from these sixteen texts will encounter a more domesticated set of critiques than the broader literature actually contains.
+• Does institutional uptake require theoretical domestication? Astin's involvement theory was absorbed into NSSE benchmarks; CECE is moving along a similar institutional path. The recurring question is whether critical frameworks lose their critical edge when they become measurement instruments — and whether there is any other route to institutional influence in U.S. higher education. This is the field's most uncomfortable tension and probably the one with the longest life ahead.
